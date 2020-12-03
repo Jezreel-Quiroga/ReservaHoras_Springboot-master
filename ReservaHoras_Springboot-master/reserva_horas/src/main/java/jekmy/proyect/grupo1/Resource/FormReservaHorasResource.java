@@ -52,8 +52,6 @@ public class FormReservaHorasResource {
                 "        <tr>\n" +
                 "            <td style=\"padding: 0\">\n" +
                 "\n" +
-                "                <a href=\"https://imgur.com/ywRjmwg\"><img style=\"padding: 0; display: block\"\n" +
-                "                        src=\"https://i.imgur.com/ywRjmwg.png\" width=\"100%\" title=\"source: imgur.com\" /></a>\n" +
                 "            </td>\n" +
                 "        </tr>\n" +
                 "        <tr>\n" +
@@ -73,15 +71,10 @@ public class FormReservaHorasResource {
                 "                        <li>Instalación de programas y formateo de equipos.</li>\n" +
                 "                        <li>Armado de equipos y cotizaciones.</li>\n" +
                 "                        <li>Inclusión de nuevos elementos de hardware.</li>\n" +
-                "                        <li>¡Entro muchos otros servicios informáticos!.</li>\n" +
+                "                        <li>¡Entre muchos otros servicios informáticos!.</li>\n" +
                 "                    </ul>\n" +
                 "                    <div style=\"width: 100%;margin:20px 0; display: inline-block;text-align: center\">\n" +
-                "\n" +
-                "                        <a href=\"https://imgur.com/5xBZSd0\"><img style=\"padding: 0; width: 200px\"\n" +
-                "                                src=\"https://i.imgur.com/5xBZSd0.jpg\" title=\"source: imgur.com\" /></a>\n" +
-                "\n" +
-                "                        <a href=\"https://imgur.com/c7flz8P\"><img style=\"padding: 0; width: 141px \"\n" +
-                "                                src=\"https://i.imgur.com/c7flz8P.png\" title=\"source: imgur.com\" /></a>\n" +
+
                 "                    </div>\n" +
                 "                 \n" +
                 "                    <p style=\"color: #b3b3b3; font-size: 12px; text-align: center;margin: 30px 0 0\">JEKMY 2020</p>\n" +
@@ -115,3 +108,4 @@ public class FormReservaHorasResource {
         new FormReservaHorasDAO().ActualizarTelefono(email,telefono);
     }
 }
+
